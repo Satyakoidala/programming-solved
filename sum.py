@@ -7,6 +7,6 @@ def fn(n):
     return sum
 
 num = int(input())
-print(fn(num));
+print(fn(num))
 
     
