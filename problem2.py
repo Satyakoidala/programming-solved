@@ -1,10 +1,8 @@
-def fn:
-    number = int(input())
-    number = str(n)
+def fn():
+    number = input()
     reverseNumber = number[::-1]
     if (reverseNumber === number):
-        print(true)
-
-    else
-        print(false)
+        print(True)
+    else:
+        print(False)
 fn()
