@@ -9,4 +9,4 @@ def sum_of_digits(num):
   return sum
 
 
-print(sum_of_digits(num))
+sum_of_digits(num)
